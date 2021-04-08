@@ -1,0 +1,4 @@
+alias la="ls -la"
+alias ld="ls -ld */" #List in long format, directories only
+alias ll="ls -l"
+
